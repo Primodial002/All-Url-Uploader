@@ -1,12 +1,12 @@
 aiohttp
 hachoir
 Pillow
-pyrogram
+pyrogram==2.0.77
 requests
 tgcrypto
 python-dotenv
 loggers
-yt-dlp
+yt-dlp==2023.10.07
 wget
 youtube_dl
 Flask==2.3.2
