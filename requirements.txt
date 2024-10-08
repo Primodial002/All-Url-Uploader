@@ -1,7 +1,7 @@
 aiohttp
 hachoir
 Pillow
-pyrogram==2.0.77
+pyrofork==2.2.11
 requests
 tgcrypto
 python-dotenv
